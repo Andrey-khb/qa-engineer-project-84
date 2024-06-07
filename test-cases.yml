@@ -6,7 +6,7 @@
   prerequisites: |
     ОС Windows7, Яндекс браузер (Версия 24.4.4.1169)
   test-data: |
-  
+  адрес сайта https://hexlet-products-store.vercel.app/
   steps:
     - Вводим в адресной строке браузера адрес сайта https://hexlet-products-store.vercel.app/
     - Нажимаем кнопку на клавиатуре "Enter"
