@@ -22,9 +22,9 @@
     Открыта страница магазина
   test-data: |
       https://hexlet-products-store.vercel.app
-      Категория: beauty (выбрана в списке)
-      Поиск или "Search": red
       язык Русский
+      Категория: beauty (выбрана в списке)
+      Поиск: red
   steps:
     - Заходим на страницу магазина
     - Выбираем категорию beauty
@@ -41,9 +41,9 @@
     Открыта страница магазина
   test-data: |
       https://hexlet-products-store.vercel.app
+      язык Русский
       Категория: beauty
       Чекбокс: Essence, Glamour Beauty
-      язык Русский
   steps:
     - Заходим на страницу магазина
     - Выбираем категорию beauty
@@ -60,9 +60,9 @@
     Открыта страница магазина
   test-data: |
       https://hexlet-products-store.vercel.app
+      язык Русский
       Категория: beauty
       Чекбокс: Essence, Glamour Beauty
-      язык Русский
   steps:
     - Заходим на страницу магазина
     - Выбираем категорию beauty
@@ -80,8 +80,8 @@
     Открыта страница магазина
   test-data: |
       https://hexlet-products-store.vercel.app
-      Категория: beauty
       язык Русский
+      Категория: beauty
   steps:
     - Заходим на страницу магазина
     - Выбираем категорию beauty
@@ -99,8 +99,8 @@
     Открыта страница магазина
   test-data: |
       https://hexlet-products-store.vercel.app
-      Категория: beauty
       язык Русский
+      Категория: beauty
   steps:
     - Заходим на страницу магазина
     - Выбираем категорию beauty
@@ -119,8 +119,8 @@
     Открыта страница магазина
   test-data: |
       https://hexlet-products-store.vercel.app
-      Категория: beauty
       язык Русский
+      Категория: beauty
   steps:
     - Заходим на страницу магазина
     - Выбираем категорию beauty
@@ -139,8 +139,8 @@
     Открыта страница магазина
   test-data: |
       https://hexlet-products-store.vercel.app
-      Категория: beauty
       язык Русский
+      Категория: beauty
   steps:
     - Заходим на страницу магазина
     - Выбираем категорию beauty
@@ -160,8 +160,8 @@
     Открыта страница магазина
   test-data: |
       https://hexlet-products-store.vercel.app
-      Категория: beauty
       язык Русский
+      Категория: beauty
   steps:
     - Заходим на страницу магазина
     - Выбираем категорию beauty
@@ -182,8 +182,8 @@
     Открыта страница магазина
   test-data: |
       https://hexlet-products-store.vercel.app
-      Категория: beauty
       язык Русский
+      Категория: beauty
   steps:
     - Заходим на страницу магазина
     - Выбираем категорию beauty
@@ -210,8 +210,8 @@
     Открыта страница магазина
   test-data: |
       https://hexlet-products-store.vercel.app
-      Категория: beauty
       язык Русский
+      Категория: beauty
   steps:
     - Заходим на страницу магазина
     - Выбираем категорию beauty
@@ -304,9 +304,9 @@
       Сайт должен быть безопасным и защищать данные пользователя
   prerequisites: |
     ОС Windows11, Google Chrome (Версия 127.0.6533.101
-    - язык Русский
     - Вводим в адресной строке браузера адрес магазина https://hexlet-products-store.vercel.app
     - Нажимаем кнопку на клавиатуре "Enter"
+    - язык Русский
     - Нажать кнопку "Войти" для авторизации на сайте
     - Ввести персональные данные (Login/password)
     - Авторизоваться на сайте
