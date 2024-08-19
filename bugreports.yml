@@ -4,7 +4,7 @@
   environment: |
     ОС Windows11, Google Chrome (Версия 127.0.6533.101
   steps-to-reproduce: |
-    1. Зайти на страницу логина https://hexlet-products-store.vercel.app
+    1. Зайти на страницу магазина https://hexlet-products-store.vercel.app
     2. Переключить интерфейс на русский язык. Нажать Language на верхней панели и выбрать русский язык
     2. На панели слева выключить чекбокс "В наличии" (убрать галку)
   expected-result: |
@@ -19,7 +19,7 @@
   environment: |
     ОС Windows11, Google Chrome (Версия 127.0.6533.101
   steps-to-reproduce: |
-    1. Зайти на страницу логина https://hexlet-products-store.vercel.app
+    1. Зайти на страницу магазина https://hexlet-products-store.vercel.app
     2. Переключить интерфейс на русский язык. Нажать Language на верхней панели и выбрать русский язык
   expected-result: |
     Какой результат должен быть без ошибки
@@ -33,7 +33,7 @@
   environment: |
     ОС Windows11, Google Chrome (Версия 127.0.6533.101
   steps-to-reproduce: |
-    1. Зайти на страницу логина https://hexlet-products-store.vercel.app
+    1. Зайти на страницу магазина https://hexlet-products-store.vercel.app
     2. Переключить интерфейс на русский язык. Нажать Language на верхней панели и выбрать русский язык
   expected-result: |
     Какой результат должен быть без ошибки
@@ -47,7 +47,7 @@
   environment: |
     ОС Windows11, Google Chrome (Версия 127.0.6533.101
   steps-to-reproduce: |
-    1. Зайти на страницу логина https://hexlet-products-store.vercel.app
+    1. Зайти на страницу магазина https://hexlet-products-store.vercel.app
     2. Переключить интерфейс на русский язык. Нажать Language на верхней панели и выбрать русский язык
   expected-result: |
     Какой результат должен быть без ошибки
@@ -61,7 +61,7 @@
   environment: |
     ОС Windows11, Google Chrome (Версия 127.0.6533.101
   steps-to-reproduce: |
-    1. Зайти на страницу логина https://hexlet-products-store.vercel.app
+    1. Зайти на страницу магазина https://hexlet-products-store.vercel.app
     2. Переключить интерфейс на русский язык. Нажать Language на верхней панели и выбрать русский язык
   expected-result: |
     Какой результат должен быть без ошибки
@@ -76,7 +76,7 @@
   environment: |
     ОС Windows11, Google Chrome (Версия 127.0.6533.101
   steps-to-reproduce: |
-    1. Зайти на страницу логина https://hexlet-products-store.vercel.app
+    1. Зайти на страницу магазина https://hexlet-products-store.vercel.app
     2. Переключить интерфейс на русский язык. Нажать Language на верхней панели и выбрать русский язык
   expected-result: |
     Какой результат должен быть без ошибки
@@ -90,7 +90,7 @@
   environment: |
     ОС Windows11, Google Chrome (Версия 127.0.6533.101
   steps-to-reproduce: |
-    1. Зайти на страницу логина https://hexlet-products-store.vercel.app
+    1. Зайти на страницу магазина https://hexlet-products-store.vercel.app
     2. Переключить интерфейс на русский язык. Нажать Language на верхней панели и выбрать русский язык
   expected-result: |
     Какой результат должен быть без ошибки
@@ -104,7 +104,7 @@
   environment: |
     ОС Windows11, Google Chrome (Версия 127.0.6533.101
   steps-to-reproduce: |
-    1. Зайти на страницу логина https://hexlet-products-store.vercel.app
+    1. Зайти на страницу магазина https://hexlet-products-store.vercel.app
     2. Переключить интерфейс на русский язык. Нажать Language на верхней панели и выбрать русский язык
   expected-result: |
     Какой результат должен быть без ошибки
@@ -118,7 +118,7 @@
   environment: |
     ОС Windows11, Google Chrome (Версия 127.0.6533.101
   steps-to-reproduce: |
-    1. Зайти на страницу логина https://hexlet-products-store.vercel.app
+    1. Зайти на страницу магазина https://hexlet-products-store.vercel.app
     2. Переключить интерфейс на русский язык. Нажать Language на верхней панели и выбрать русский язык
   expected-result: |
     Какой результат должен быть без ошибки
