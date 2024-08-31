@@ -4,11 +4,11 @@
   requirement: |
         Пользователь должен иметь возможность просматривать товары и просматривать подробную информацию о товаре
   prerequisites:
-        no-data
+        - no-data
   test-data: |
         no-data
   steps:
-        - Заходим на страницу магазина
+        - no-data
   expected-result: |
         Пользователь должен видеть карточки товаров с фото, кратким описанием товара в каждой карточке
 
@@ -18,7 +18,7 @@
   requirement: |
         Пользователь должен иметь возможность искать товары по ключевому слову или категории
   prerequisites:
-        no-data
+        - no-data
   test-data: |
         no-data
   steps:
@@ -34,7 +34,7 @@
   requirement: |
         Пользователь должен иметь возможность фильтровать товары
   prerequisites:
-        no-data
+        - no-data
   test-data: |
         no-data
   steps:
@@ -50,7 +50,7 @@
   requirement: |
         Пользователь должен иметь возможность фильтровать товары
   prerequisites:
-        no-data
+        - no-data
   test-data: |
         no-data
   steps:
@@ -67,7 +67,7 @@
   requirement: |
         Пользователь должен иметь возможность добавлять товары в корзину и просматривать содержимое корзины
   prerequisites:
-        no-data
+        - no-data
   test-data: |
         no-data
   steps:
@@ -84,7 +84,7 @@
   requirement: |
         Пользователь должен иметь возможность корректировать количество товаров в корзине
   prerequisites:
-        no-data
+        - no-data
   test-data: |
         no-data
   steps:
@@ -102,7 +102,7 @@
   requirement: |
         Пользователь должен иметь возможность удалять товары из корзины по одному наименованию
   prerequisites:
-        no-data
+        - no-data
   test-data: |
         no-data
   steps:
@@ -120,7 +120,7 @@
   requirement: |
         Пользователь должен иметь возможность очистить корзину полностью одной кнопкой
   prerequisites:
-        no-data
+        - no-data
   test-data: |
         no-data
   steps:
@@ -138,7 +138,7 @@
   requirement: |
         Пользователь должен иметь возможность оформить заказ добавленных в корзину товаров
   prerequisites:
-        no-data
+        - no-data
   test-data: |
         no-data
   steps:
@@ -157,7 +157,7 @@
   requirement: |
         После оформления заказа заказанные товары из корзины должны исчезнуть
   prerequisites:
-        no-data
+        - no-data
   test-data: |
         no-data
   steps:
@@ -178,7 +178,7 @@
   requirement: |
         Пользователь должен иметь возможность переключать язык интерфеса приложения (русский-английский)
   prerequisites:
-        no-data
+        - no-data
   test-data: |
         no-data
   steps:
@@ -192,10 +192,10 @@
         Проверка безопаcного подключения к сайту по протоколу https
   requirement: |
         Сайт должен быть безопасным и защищать данные пользователя
-  prerequisites: |
-        ОС Windows11, Google Chrome (Версия 127.0.6533.101
+  prerequisites:
+        - ОС Windows11, Google Chrome (Версия 127.0.6533.101
   test-data: |
-        no-data                   
+        - no-data                   
   steps:
         - Заходим на сайт по адресу https://hexlet-products-store.vercel.app
   expected-result: |
@@ -207,7 +207,7 @@
   requirement: |
         Сайт должен быть адаптивным к типам устройств для просмотра
   prerequisites:
-        no-data
+        - no-data
   test-data: |
         no-data
   steps:
@@ -224,8 +224,8 @@
   requirement: |
         Сайт должен быть совместим с последними версиями браузеров
   prerequisites:
-        ОС Windows11, Microsoft Edge браузер (Версия 127.0.2651.98)
-        ОС Windows11, Google Chrome браузер (Версия 127.0.6533.101)
+        - ОС Windows11, Microsoft Edge браузер (Версия 127.0.2651.98)
+        - ОС Windows11, Google Chrome браузер (Версия 127.0.6533.101)
   test-data: |
         no-data
   steps:
@@ -241,7 +241,7 @@
   requirement: |
         Во всех блоках (карточках) товаров кнопка "В корзину" одного цвета и размера
   prerequisites:
-        no-data
+        - no-data
   test-data: |
         no-data
   steps:
@@ -258,7 +258,7 @@
   requirement: |
         Приложение должно быть SPA
   prerequisites:
-        no-data
+        - no-data
   test-data: |
         no-data
   steps:
@@ -272,8 +272,8 @@
         Проверка безопаcности данных клиента при авторизации
   requirement: |
         Сайт должен быть безопасным и защищать данные пользователя
-  prerequisites: |
-        ОС Windows11, Google Chrome (Версия 127.0.6533.101
+  prerequisites:
+        - ОС Windows11, Google Chrome (Версия 127.0.6533.101
   test-data: |
           Login = test Password = test
   steps:
@@ -290,8 +290,8 @@
         Сайт должен блокировать возможность добавлять товары в корзину и оформлять заказ если не пройдена авторизация пользователя
   requirement: |
         Сайт должен блокировать возможность добавлять товары в корзину и оформлять заказ если не пройдена авторизация пользователя
-  prerequisites: |
-        ОС Windows11, Google Chrome (Версия 127.0.6533.101
+  prerequisites:
+        - ОС Windows11, Google Chrome (Версия 127.0.6533.101
   test-data: |
           Login = test Password = test
   steps:
@@ -309,8 +309,8 @@
         По умолчанию интерфейс сайта должен быть на русском языке
   requirement: |
         По умолчанию интерфейс сайта должен быть на русском языке
-  prerequisites: |
-        ОС Windows11, Google Chrome (Версия 127.0.6533.101
+  prerequisites:
+        - ОС Windows11, Google Chrome (Версия 127.0.6533.101
   test-data: |
         no-data
   steps:
