@@ -6,7 +6,7 @@
   prerequisites:
         no-data
   test-data: |
-        
+        no-data
   steps:
         - Заходим на страницу магазина
   expected-result: |
@@ -198,7 +198,7 @@
   prerequisites: |
         ОС Windows11, Google Chrome (Версия 127.0.6533.101
   test-data: |
-        https://hexlet-products-store.vercel.app                   
+        no-data                   
   steps:
         - Заходим на сайт по адресу https://hexlet-products-store.vercel.app
   expected-result: |
@@ -212,7 +212,7 @@
   prerequisites:
         no-data
   test-data: |
-        
+        no-data
   steps:
         - в браузере переходим в режим DevTools
         - нажимаем кнопку панель инструментов устроств
@@ -230,7 +230,7 @@
         ОС Windows11, Microsoft Edge браузер (Версия 127.0.2651.98)
         ОС Windows11, Google Chrome браузер (Версия 127.0.6533.101)
   test-data: |
-        
+        no-data
   steps:
         - Запускаем Microsoft Edge браузер, Google Chrome браузер
         - Вводим в адресной строке каждого браузера адрес магазина https://hexlet-products-store.vercel.app
@@ -246,7 +246,7 @@
   prerequisites:
         no-data
   test-data: |
-        
+        no-data
   steps:
         - Заходим на страницу магазина
         - Спускаемся в самый низ страницы с карточками товарами
@@ -263,7 +263,7 @@
   prerequisites:
         no-data
   test-data: |
-        
+        no-data
   steps:
         - Заходим на страницу магазина
         - Перемещаемся по каталогу товаров
@@ -315,7 +315,7 @@
   prerequisites: |
         ОС Windows11, Google Chrome (Версия 127.0.6533.101
   test-data: |
-          
+        no-data
   steps:
         - Вводим в адресной строке браузера адрес магазина https://hexlet-products-store.vercel.app
         - Нажимаем кнопку на клавиатуре "Enter"
