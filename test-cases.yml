@@ -4,7 +4,7 @@
   requirement: |
         Пользователь должен иметь возможность искать товары по ключевому слову или категории
   prerequisites: |
-        - no-data
+        no-data
   test-data: |
         no-data
   steps:
@@ -19,7 +19,7 @@
   requirement: |
         Пользователь должен иметь возможность фильтровать товары
   prerequisites: |
-        - no-data
+        no-data
   test-data: |
         no-data
   steps:
@@ -34,7 +34,7 @@
   requirement: |
         Пользователь должен иметь возможность фильтровать товары
   prerequisites: |
-        - no-data
+        no-data
   test-data: |
         no-data
   steps:
@@ -50,7 +50,7 @@
   requirement: |
         Пользователь должен иметь возможность добавлять товары в корзину и просматривать содержимое корзины
   prerequisites: |
-        - no-data
+        no-data
   test-data: |
         no-data
   steps:
@@ -66,7 +66,7 @@
   requirement: |
         Пользователь должен иметь возможность корректировать количество товаров в корзине
   prerequisites: |
-        - no-data
+        no-data
   test-data: |
         no-data
   steps:
@@ -83,7 +83,7 @@
   requirement: |
         Пользователь должен иметь возможность удалять товары из корзины по одному наименованию
   prerequisites: |
-        - no-data
+        no-data
   test-data: |
         no-data
   steps:
@@ -100,7 +100,7 @@
   requirement: |
         Пользователь должен иметь возможность очистить корзину полностью одной кнопкой
   prerequisites: |
-        - no-data
+        no-data
   test-data: |
         no-data
   steps:
@@ -117,7 +117,7 @@
   requirement: |
         Пользователь должен иметь возможность оформить заказ добавленных в корзину товаров
   prerequisites: |
-        - no-data
+        no-data
   test-data: |
         no-data
   steps:
@@ -135,7 +135,7 @@
   requirement: |
         После оформления заказа заказанные товары из корзины должны исчезнуть
   prerequisites: |
-        - no-data
+        no-data
   test-data: |
         no-data
   steps:
@@ -155,7 +155,7 @@
   requirement: |
         Пользователь должен иметь возможность переключать язык интерфеса приложения (русский-английский)
   prerequisites: |
-        - no-data
+        no-data
   test-data: |
         no-data
   steps:
@@ -169,7 +169,7 @@
   requirement: |
         Сайт должен быть безопасным и защищать данные пользователя
   prerequisites: |
-        - ОС Windows11, Google Chrome (Версия 127.0.6533.101
+        ОС Windows11, Google Chrome (Версия 127.0.6533.101
   test-data: |
         - no-data                   
   steps:
@@ -183,7 +183,7 @@
   requirement: |
         Сайт должен быть адаптивным к типам устройств для просмотра
   prerequisites: |
-        - no-data
+        no-data
   test-data: |
         no-data
   steps:
@@ -217,7 +217,7 @@
   requirement: |
         Во всех блоках (карточках) товаров кнопка "В корзину" одного цвета и размера
   prerequisites: |
-        - no-data
+        no-data
   test-data: |
         no-data
   steps:
@@ -233,7 +233,7 @@
   requirement: |
         Приложение должно быть SPA
   prerequisites: |
-        - no-data
+        no-data
   test-data: |
         no-data
   steps:
@@ -247,7 +247,7 @@
   requirement: |
         Сайт должен быть безопасным и защищать данные пользователя
   prerequisites: |
-        - ОС Windows11, Google Chrome (Версия 127.0.6533.101
+        ОС Windows11, Google Chrome (Версия 127.0.6533.101
   test-data: |
           Login = test Password = test
   steps:
@@ -262,7 +262,7 @@
   requirement: |
         Сайт должен блокировать возможность добавлять товары в корзину и оформлять заказ если не пройдена авторизация пользователя
   prerequisites: |
-        - ОС Windows11, Google Chrome (Версия 127.0.6533.101
+        ОС Windows11, Google Chrome (Версия 127.0.6533.101
   test-data: |
           Login = test Password = test
   steps:
@@ -278,7 +278,7 @@
   requirement: |
         По умолчанию интерфейс сайта должен быть на русском языке
   prerequisites: |
-        - ОС Windows11, Google Chrome (Версия 127.0.6533.101
+        ОС Windows11, Google Chrome (Версия 127.0.6533.101
   test-data: |
         no-data
   steps:
