@@ -29,7 +29,7 @@
 
 - summary: |
      Проверка очистки корзины
-  status: pass
+  status: fail
 
 - summary: |
      Проверка оформления заказа
