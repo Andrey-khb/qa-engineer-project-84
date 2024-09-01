@@ -4,51 +4,51 @@ test-cases:
     Проверка фильтра по ключевому слову
   status: pass
 
-- summary: |
+  - summary: |
     Проверка фильтра по категории
   status: pass  
 
-- summary: |
+  - summary: |
     Проверка фильтра по бренду
   status: pass
 
-- summary: |
+  - summary: |
     Проверка фильтра "В наличии" 
   status: fail
 
-- summary: |
+  - summary: |
      Проверка добавления товара в корзину с главной
   status: pass
 
-- summary: |
+  - summary: |
      Проверка изменения количества товара в корзине
   status: fail
 
-- summary: |
+  - summary: |
      Проверка удаления товаров из корзины
   status: fail
 
-- summary: |
+  - summary: |
      Проверка очистки корзины
   status: fail
 
-- summary: |
+  - summary: |
      Проверка оформления заказа
   status: fail
 
-- summary: |
+  - summary: |
      Проверка очистки корзины после успешно оформленного заказа
   status: fail
 
-- summary: |
+  - summary: |
      Проверка смены локали сайта на русскую
   status: fail
 
-- summary: |
+  - summary: |
      Проверка мобильной версии сайта
   status: fail
 
-- summary: |
+  - summary: |
      Проверка кроссбраузерности
   status: pass
 
